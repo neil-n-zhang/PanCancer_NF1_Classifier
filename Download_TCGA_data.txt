@@ -1,0 +1,5 @@
+1. Download through Xena Browser: https://xenabrowser.net/datapages/
+2. Download through GDC data transfer tool using Manifest file from GDC data portal:
+https://gdc.cancer.gov/access-data/gdc-data-transfer-tool
+https://portal.gdc.cancer.gov/
+3. Download through TCGAbiolinks package in R
